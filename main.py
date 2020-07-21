@@ -1,5 +1,5 @@
 print("hello")
-print("Wpisuje jakąs zmianę")
+print("Wpisuje tutaj trzecia zmianę")
 
 print ("lista zakupów")
 shopping_dict = {
@@ -13,3 +13,6 @@ for product in shopping_dict.keys():
     print("Idę do", ["warzywniak".capitalize()], "kupuję tu następujące rzeczy",shopping_dict ["warzywniak"])
     break
 print("W sumie kupuję", len(shopping_dict["piekarnia"]) + len(shopping_dict["warzywniak"]), "produktów.")
+
+
+
