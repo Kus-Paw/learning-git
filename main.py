@@ -14,5 +14,6 @@ for product in shopping_dict.keys():
     break
 print("W sumie kupuję", len(shopping_dict["piekarnia"]) + len(shopping_dict["warzywniak"]), "produktów.")
 
+print("robie pseudo zmiane zeby sprawdzic czy bedzie zapisana w galezi")
 
 
